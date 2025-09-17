@@ -179,15 +179,6 @@ class HighPrecisionGaussInt:
         
         return c1 * sum_val
 
-    def integ(self, f, a: float, b: float) -> Decimal:
-        """
-        Integrate function f from a to b using Gaussian quadrature
-        """
-        
-        ### complete code here ###
-    
-        return 0  # integral of function f
-
     
 # Example usage and testing
 if __name__ == "__main__":
